@@ -209,7 +209,7 @@
   margin-bottom: var(--dl-space-space-fiveunits);
   text-transform: none;
   text-decoration: none;
-  -webkit-text-stroke: 0.3vw #fbc605;
+  -webkit-text-stroke: 0.2vw #24243a;
 }
 
 .home-heading::before {
@@ -220,7 +220,6 @@
   width: 100%;
   height: 70%;
   color: #fbc605;
-  -webkit-text-stroke: 0.1vw #4f4f8d;
   border-right: 2px solid #fbc605;
   overflow: hidden;
   animation: animate 6s linear infinite;
