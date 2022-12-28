@@ -209,7 +209,7 @@
   margin-bottom: var(--dl-space-space-fiveunits);
   text-transform: none;
   text-decoration: none;
-  -webkit-text-stroke: 0.1vw #fbc605;
+  -webkit-text-stroke: 0.3vw #fbc605;
 }
 
 .home-heading::before {
