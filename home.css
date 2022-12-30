@@ -197,7 +197,7 @@
   flex-direction: column;
 }
 .home-heading {
-  color: #07070c;
+  color: #24243a;
   height: 70px;
   font-size: 40px;
   align-self: flex-start;
@@ -209,7 +209,7 @@
   margin-bottom: var(--dl-space-space-fiveunits);
   text-transform: none;
   text-decoration: none;
-  -webkit-text-stroke: 0.2vw #24243a;
+  -webkit-text-stroke: 0.2vw #07070c;
 }
 
 .home-heading::before {
